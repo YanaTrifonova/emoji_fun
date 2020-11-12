@@ -5,7 +5,7 @@ const result = nodeEmoji.search(input);
 
 if (result.length !== 0) {
     for (let element of result) {
-        console.log(`I found ${element.emoji} emoji as ${element.key}!`);
+        console.log(`I found ${element.emoji} emoji as ${element.key}.`);
     }
 } else {
     console.log("Nothing has found!");

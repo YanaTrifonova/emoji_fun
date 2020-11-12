@@ -17,7 +17,7 @@ $ npm run getRandomEmoji
 Output
 
 ```
-Here is your random "construction" emoji – 🚧
+Here is your random "construction" emoji – 🚧!
 ```
 
 ## Search emoji with its name
@@ -31,11 +31,11 @@ $ npm run searchEmoji bi
 Output
 
 ```
-I found 🎂 emoji as birthday!
-I found 🐦 emoji as bird!
-I found 👙 emoji as bikini!
-I found 🚲 emoji as bike!
-I found 🚴‍♂️ emoji as bicyclist!
-I found 🧢 emoji as billed_cap!
-I found ☣️ emoji as biohazard_sign!
+I found 🎂 emoji as birthday.
+I found 🐦 emoji as bird.
+I found 👙 emoji as bikini.
+I found 🚲 emoji as bike.
+I found 🚴‍♂️ emoji as bicyclist.
+I found 🧢 emoji as billed_cap.
+I found ☣️ emoji as biohazard_sign.
 ```
