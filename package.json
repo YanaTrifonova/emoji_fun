@@ -1,0 +1,18 @@
+{
+  "name": "emoji_fun",
+  "version": "1.0.0",
+  "description": "",
+  "main": "getRandomEmoji.js",
+  "dependencies": {
+    "node-emoji": "^1.10.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "getRandomEmoji": "node getRandomEmoji.js",
+    "searchEmoji": "node searchEmoji.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
