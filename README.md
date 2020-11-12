@@ -1,4 +1,5 @@
 # Emoji fun
+Small script that make some based stuff based on 'node-emoji' package [[link](https://www.npmjs.com/package/node-emoji)].
 
 ## Start
 Download repository
